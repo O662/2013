@@ -1,0 +1,6 @@
+MIDlet-Name: 3335
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: FIRST
+MIDlet-1: Cyborgs, , edu.wpi.first.wpilibj.templates.Cyborgs
+MicroEdition-Profile: IMP-1.0
+MicroEdition-Configuration: CLDC-1.1
